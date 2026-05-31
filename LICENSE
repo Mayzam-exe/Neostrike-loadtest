@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2026 Maxim
+Copyright (c) 2026 Mayzam-exe
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,3 +19,23 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+---
+
+ADDITIONAL ETHICAL USE CLAUSE
+
+This software is intended solely for authorized network stress testing and
+performance benchmarking on systems that the user owns or has received
+explicit written permission to test.
+
+Any use of this software against systems without proper authorization is:
+
+  - A violation of this license
+  - Potentially illegal under computer fraud and abuse laws in your jurisdiction
+  - Entirely the responsibility of the user
+
+The author(s) of NeoStrike expressly disclaim all liability for any
+unauthorized, illegal, or unethical use of this software. By using this
+software, you agree that you are solely responsible for ensuring your use
+complies with all applicable laws and that you have the necessary
+authorizations for any systems you test.
